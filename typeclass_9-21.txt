@@ -1,0 +1,10 @@
+ typeclasses
+
+1. derived instances
+2. type synonyms
+3. recursive data structures
+    - recursive/List.hs
+    - recursive/Infixr.hs
+    - recursive/AddLists.hs
+4. typeclasses 102
+5. yes-no typeclass
