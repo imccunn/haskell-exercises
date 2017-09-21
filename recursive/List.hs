@@ -6,3 +6,6 @@ data List a = Empty | Cons { listHead :: a, listTail :: List a} deriving (Show, 
 -- cons is another word for :
 -- can call Cons constructor in an infix manner
 
+-- 5 `Cons` Empty
+-- 4 `Cons` (5 `Cons` Empty)
+-- 3 `Cons` (4 `Cons` (5 `Cons` Empty))

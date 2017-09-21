@@ -1,10 +1,17 @@
  typeclasses
 
 1. derived instances
+  - Person.hs
 2. type synonyms
 3. recursive data structures
     - recursive/List.hs
     - recursive/Infixr.hs
     - recursive/AddLists.hs
 4. typeclasses 102
-5. yes-no typeclass
+  - /Notes.hs
+  - /standardEq.hs
+  - /TrafficLight.hs
+  - /MaybeInstance.hs
+5. yes-no typeclass (weak types)
+  - /WeakTypes.hs
+  - /YesNoif.hs
